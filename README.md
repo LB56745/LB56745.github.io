@@ -14,15 +14,19 @@ But fear not! I’ve did A LOT of research, tried and tested multiple email prov
 
 Tuta Mail is based in Germany – so luckily, because it’s part of the EU it is fully GPDR compliant, and being a privacy-focused email provider they actually have much stricter security than what’s required by the EU. 
  
-I highly rate Tuta Mail as the [best email service for privacy and security.](https://tuta.com/blog/best-private-email-service)
+I highly rate Tuta Mail as the [best email service for privacy and security.](https://tuta.com/)
 
-Why did I choose Tuta Mail?
+If you still want to check out other private email serives [click here!](https://tuta.com/blog/best-private-email-service)
+
+**Why did I choose Tuta Mail?**
 
 Okay, so there are many reasons I chose Tuta over the other private email providers. First of all, the whole Tuta mailbox and even their calendar is end-to-end encrypted, I also really appreciate that Tuta is fully open-source. This gives me peace of mind knowing only the intended recipient can see whats in the email, and I don’t have any snooping about. 
 
-Tuta is a super ethical, well run company – they believe privacy should be accessible for everybody, which is why you can even get a [Tuta mail account for free.](https://tuta.com/blog/best-free-email-accounts) With big tech providers we always think it’s free but in reality we are paying with our data. 
+Tuta is a super ethical, well run company – they believe privacy should be accessible for everybody, which is why you can even get a [Tuta mail account for free.]([https://tuta.com/blog/best-free-email-aWith big tech providers we always think it’s free but in reality we are paying with our data. 
 
 Another major benefit is that you can create a Tuta account and remain [fully anonymous](https://tuta.com/blog/anonymous-email/) – they don’t need your cellphone number, your name, or any personal information. 
 
 
 There are other privacy-focused email providers out there which are also great! But, before you create an account with them, I’d always make sure they are not part of the [5 eyes!](https://tuta.com/blog/posts/fourteen-eyes-countries)
+
+For a guide on the 10 best free email accounts in 2024, I found this cool guide: [click here.](https://tuta.com/blog/best-free-email-accounts)
