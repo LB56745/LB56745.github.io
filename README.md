@@ -1,3 +1,7 @@
+
+![Screenshot from 2024-02-19 16-31-34](https://github.com/LB56745/LB56745.github.io/assets/160507147/3c89143a-6ded-4a8c-98d2-aa47170c13ef)
+
+
 ### **Goodbye Big Tech!**
 
 Hello! 
@@ -19,5 +23,6 @@ Okay, so there are many reasons I chose Tuta over the other private email provid
 Tuta is a super ethical, well run company – they believe privacy should be accessible for everybody, which is why you can even get a [Tuta mail account for free.](https://tuta.com/blog/best-free-email-accounts) With big tech providers we always think it’s free but in reality we are paying with our data. 
 
 Another major benefit is that you can create a Tuta account and remain [fully anonymous](https://tuta.com/blog/anonymous-email/) – they don’t need your cellphone number, your name, or any personal information. 
+
 
 There are other privacy-focused email providers out there which are also great! But, before you create an account with them, I’d always make sure they are not part of the [5 eyes!](https://tuta.com/blog/posts/fourteen-eyes-countries)
