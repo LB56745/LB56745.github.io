@@ -14,7 +14,7 @@ But fear not! I’ve did A LOT of research, tried and tested multiple email prov
 
 Tuta Mail is based in Germany – so luckily, because it’s part of the EU it is fully GPDR compliant, and being a privacy-focused email provider they actually have much stricter security than what’s required by the EU. 
  
-I highly rate Tuta Mail as the [best email service for privacy and security.](https://tuta.com/)
+I highly rate Tuta Mail as the best email service for privacy and [security.](https://tuta.com/security)
 
 If you still want to check out other private email serives [click here!](https://tuta.com/blog/best-private-email-service)
 
