@@ -1,1 +1,1 @@
-###Goodbye big tech!
+**Goodbye Big Tech**
