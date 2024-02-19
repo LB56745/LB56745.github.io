@@ -16,7 +16,7 @@ Tuta Mail is based in Germany – so luckily, because it’s part of the EU it i
  
 I highly rate Tuta Mail as the best email service for privacy and [security.](https://tuta.com/security)
 
-If you still want to check out other private email serives [click here!](https://tuta.com/blog/best-private-email-service)
+If you still want to check out other private email services [click here!](https://tuta.com/blog/best-private-email-service)
 
 **Why did I choose Tuta Mail?**
 
