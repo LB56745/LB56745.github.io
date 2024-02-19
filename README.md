@@ -6,7 +6,7 @@ If you’re made it here, you’re probably wanting to move away from big tech e
 
 If you’ve used a big tech provider like Gmail, Yahoo or Outlook it will be no surprise that you’re tired of all the invasive and weird advertising, the data mining, and even the scanning of your private messages. It’s scary to think how much they know about us, and how they use this against us. 
 
-But fear not! I’ve did A LOT of research, tried and tested multiple email providers and found the perfect one: Tuta Mail. 
+But fear not! I’ve did A LOT of research, tried and tested multiple email providers and found the perfect one: [Tuta Mail.](https://tuta.com/) 
 
 Tuta Mail is based in Germany – so luckily, because it’s part of the EU it is fully GPDR compliant, and being a privacy-focused email provider they actually have much stricter security than what’s required by the EU. 
  
