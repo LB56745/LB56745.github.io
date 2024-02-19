@@ -22,7 +22,7 @@ If you still want to check out other private email serives [click here!](https:/
 
 Okay, so there are many reasons I chose Tuta over the other private email providers. First of all, the whole Tuta mailbox and even their calendar is end-to-end encrypted, I also really appreciate that Tuta is fully open-source. This gives me peace of mind knowing only the intended recipient can see whats in the email, and I don’t have any snooping about. 
 
-Tuta is a super ethical, well run company – they believe privacy should be accessible for everybody, which is why you can even get a [Tuta mail account for free.]([https://tuta.com/blog/best-free-email-aWith big tech providers we always think it’s free but in reality we are paying with our data. 
+Tuta is a super ethical, well run company – they believe privacy should be accessible for everybody, which is why you can even get a [Tuta mail account for free.]([https://tuta.com/blog/best-free-email-a) With big tech providers we always think it’s free but in reality we are paying with our data. 
 
 Another major benefit is that you can create a Tuta account and remain [fully anonymous](https://tuta.com/blog/anonymous-email/) – they don’t need your cellphone number, your name, or any personal information. 
 
