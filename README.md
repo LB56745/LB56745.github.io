@@ -30,4 +30,4 @@ Another major benefit is that you can create a Tuta account and remain [fully an
 There are other privacy-focused email providers out there which are also great! But, before you create an account with them, I’d always make sure they are not part of the [5 eyes!](https://tuta.com/blog/posts/fourteen-eyes-countries)
 
 For a guide on the 10 best free email accounts in 2024, I found this cool guide: [click here.](https://tuta.com/blog/best-free-email-accounts)
-If you're thinking of going a step further and ditching WhatsApp there are some really good alternatives too - I'm currently using Signal. Here's a link to check out for the best [WhatsApp alternatives for privacy.](https://tuta.com/blog/best-whatsapp-alternatives-privacy)  
+If you're thinking of going a step further and ditching WhatsApp there are some really good alternatives too - I'm currently using Signal. Here's a link to check out for the [best WhatsApp alternatives for privacy.](https://tuta.com/blog/best-whatsapp-alternatives-privacy)  
